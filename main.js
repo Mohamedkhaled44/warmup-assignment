@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-//helpers method for easier implementation
+//helpers method for easier implementation anD better understanding of the code
 function timeToSeconds(timeStr) {
 
     timeStr = timeStr.trim();
